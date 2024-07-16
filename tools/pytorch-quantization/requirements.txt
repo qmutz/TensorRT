@@ -3,3 +3,4 @@ absl-py>=0.7.0
 scipy
 sphinx_glpi_theme
 prettytable
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
